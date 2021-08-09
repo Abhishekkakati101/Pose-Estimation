@@ -24,16 +24,16 @@ Pose estimation also differs from other common computer vision tasks in some imp
 We can clearly envision the power of pose estimation by considering its application in automatically tracking human movement. From virtual sports coaches and AI-powered personal trainers to tracking movements on factory floors to ensure worker safety, pose estimation has the potential to create a new wave of automated tools designed to measure the precision of human movement.
 
 <p align = 'center'>
-<img src ='https://miro.medium.com/max/1400/1*q8Bq1q0tb0BSCaVmcHygFw.png' alt ='' class = 'center'>
+<img src ='https://user-images.githubusercontent.com/57028410/128725044-12b4593c-84c5-4975-9192-88feed3fae0b.png'>
 </p>
 
 ## Live Demo:
 
-![](https://github.com/Abhishekkakati101/Pose-Estimation/blob/main/PoseEstimationDemo.gif)
-
+![](https://github.com/Abhishekkakati101/Pose-Estimation/blob/main/PoseEstimationDemo2.gif)
 
 
 ## Installation:
--  `Mediapipe`: pip install mediapipe
+- `Mediapipe`: pip install mediapipe
 - `OpenCv`: pip install opencv-python
+- `Time`: pip install python-time
 
